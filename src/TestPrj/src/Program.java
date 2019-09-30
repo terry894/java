@@ -8,5 +8,6 @@ public class Program {
               //khkim
               //khkim 2
               //myeong
+              khkim
 	}
 }
