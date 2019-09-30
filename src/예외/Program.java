@@ -11,7 +11,7 @@ public class Program {
 		System.out.printf("sum:%d\n",sum);
 		}
 		//큭수하게 처리할 예외는 앞에 와야한다
-		//sadasfassad
+		//sadasfassadasd
 		catch(너무커서 e) {
 			System.out.println("aaa"+e.getMessage());
 			//파일을 닫아야 하는코드 가 필요 
